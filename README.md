@@ -4,7 +4,7 @@
 
 # Sai Siri Bandaru
 
-**Finance & Business Analytics Professional | SQL, Power BI, Tableau | Forecasting & Reporting**
+**Financial Analyst | FP&A | SQL, Power BI, Tableau**
 
 <br/>
 
@@ -23,10 +23,16 @@
 
 ## About Me
 
-Hi, I'm **Sai Siri Bandaru** — Finance & Business Analytics Professional with 4+ years converting financial and operational data into forecasts, variance analysis, and executive reporting across U.S. banking and international operations. I build and maintain Power BI and Tableau dashboards, query and validate SQL datasets of tens of thousands of rows, and deliver monthly performance commentary to business leaders across a $50M expense base. Redesigned monthly reporting to cut the close cycle from 5 days to 3. MS in Business Analytics (Beta Gamma Sigma) and MBA in Accounting & Finance.
+I'm a financial and business analyst with 4+ years of work turning financial and operational data into forecasts, variance analysis, and executive reporting. I've worked across U.S. banking and international operations.
 
-- Currently: **Financial Analyst** — Operations Finance / FP&A at PNC Financial Services
-- Recent signal: reporting redesign **5→3 day** cycle · **2% throughput** lift from ops partnership
+At PNC I build KPI dashboards, work in SQL and Excel on large production datasets across a $50M expense base, and write the monthly performance commentary for managers and business leaders. I also maintain the Excel models the finance team uses for volume analysis and forecasting. We cut the monthly close cycle from 5 days to 3, and process work with operations supported a 2% throughput increase.
+
+Before that, at upGrad I built Power BI and Tableau dashboards, automated NetSuite and Banner reporting, and ran variance and capital analysis. Earlier roles at BYJU'S and BSNL covered MIS, pricing, working capital, and ERP reporting.
+
+I have an MS in Business Analytics from the University of New Haven (Beta Gamma Sigma) and an MBA in Accounting and Finance. Sample models are on my GitHub.
+
+- Currently: **Financial Analyst**, Operations Finance / FP&A at PNC Financial Services
+- Cut monthly close from 5 days to 3. Ops work supported a 2% throughput increase.
 - Portfolio: [saisiri1207.github.io](https://saisiri1207.github.io)
 - Tools: SQL, Power BI, Tableau, Excel, Python, Oracle NetSuite, SAP
 
@@ -79,7 +85,7 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 | 4 | [Driver-based forecast](https://github.com/saisiri1207/driver-based-forecast) | If volume or cost moves, what happens to the P&L vs plan? | `Northline_Driver_Based_Forecast.xlsx` |
 
 <details>
-<summary>More models — grouped as on the resume</summary>
+<summary>More models, grouped as on the resume</summary>
 <br/>
 
 ### Dashboards & reporting
@@ -103,7 +109,7 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 ### Unit economics & cost
 | Model | What it proves |
 | --- | --- |
-| [Margin & mix bridge](https://github.com/saisiri1207/margin-mix-bridge) | Volume can be up while GM% falls — price, volume, mix, and cost walk |
+| [Margin & mix bridge](https://github.com/saisiri1207/margin-mix-bridge) | Volume can be up while GM% falls: price, volume, mix, and cost walk |
 | [Unit economics](https://github.com/saisiri1207/unit-economics-workbook) | Per-unit contribution by SKU/channel and launch payback |
 | [Cost accounting workbook](https://github.com/saisiri1207/cost-accounting-workbook) | Material, labor, and overhead variances |
 | [Capex investment case](https://github.com/saisiri1207/capex-investment-case) | Project cash flows with NPV, IRR, payback, and a one-pager |
@@ -113,16 +119,16 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 
 ## Experience
 
-**PNC Financial Services**, Financial Analyst — Operations Finance / FP&A — Cleveland, OH (Jun 2025 – Present)  
+**PNC Financial Services**, Financial Analyst, Operations Finance / FP&A, Cleveland, OH (Jun 2025 – Present)  
 Build and maintain executive KPI dashboards; query and validate SQL/Excel datasets of tens of thousands of rows across a **$50M** expense base; deliver written commentary to functional managers and business leaders; own analytical Excel models supporting the finance function; cut the monthly close cycle from **5 days to 3**; ops partnership contributed to a **2%** throughput increase.
 
-**upGrad**, Financial Analyst — Hyderabad, India (Apr 2022 – Jul 2023)  
+**upGrad**, Financial Analyst, Hyderabad, India (Apr 2022 – Jul 2023)  
 Designed and maintained Power BI and Tableau dashboards; automated NetSuite/Banner reporting (full day saved); variance analysis across multiple divisions; forecasting plus NPV/IRR on capital investment cases.
 
-**BYJU’S**, Sales Analyst — Vijayawada, India (Aug 2020 – Mar 2022)  
+**BYJU’S**, Sales Analyst, Vijayawada, India (Aug 2020 – Mar 2022)  
 Monthly MIS; pricing and ROI models; departmental budgets, standard-cost variance, and working-capital analysis.
 
-**BSNL**, Junior Financial Analyst — Hyderabad, India (Jan 2019 – Aug 2019)  
+**BSNL**, Junior Financial Analyst, Hyderabad, India (Jan 2019 – Aug 2019)  
 SAP/Oracle data extraction; leadership MIS; daily cash monitoring.
 
 ## Education
