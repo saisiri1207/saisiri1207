@@ -4,7 +4,7 @@
 
 # Sai Siri Bandaru
 
-**Business & Data Analyst | SQL, Power BI, Tableau | Forecasting & Reporting**
+**Finance & Business Analytics Professional | SQL, Power BI, Tableau | Forecasting & Reporting**
 
 <br/>
 
@@ -23,9 +23,9 @@
 
 ## About Me
 
-Hi, I'm **Sai Siri Bandaru** — Business/Data Analyst with 4+ years turning financial and operational data into dashboards, forecasts, and executive-ready reporting across U.S. banking and international operations. I build and maintain Power BI and Tableau dashboards, query and validate datasets of tens of thousands of rows in SQL, and deliver analysis to 10 business leaders across a $50M expense base. Redesigned reporting that cut the monthly cycle from 5 days to 3. MS in Business Analytics (Beta Gamma Sigma) and MBA in Accounting & Finance.
+Hi, I'm **Sai Siri Bandaru** — Finance & Business Analytics Professional with 4+ years converting financial and operational data into forecasts, variance analysis, and executive reporting across U.S. banking and international operations. I build and maintain Power BI and Tableau dashboards, query and validate SQL datasets of tens of thousands of rows, and deliver monthly performance commentary to business leaders across a $50M expense base. Redesigned monthly reporting to cut the close cycle from 5 days to 3. MS in Business Analytics (Beta Gamma Sigma) and MBA in Accounting & Finance.
 
-- Currently: **Business & Data Analyst** focus in Operations Finance at PNC Financial Services
+- Currently: **Financial Analyst** — Operations Finance / FP&A at PNC Financial Services
 - Recent signal: reporting redesign **5→3 day** cycle · **2% throughput** lift from ops partnership
 - Portfolio: [saisiri1207.github.io](https://saisiri1207.github.io)
 - Tools: SQL, Power BI, Tableau, Excel, Python, Oracle NetSuite, SAP
@@ -113,11 +113,11 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 
 ## Experience
 
-**PNC Financial Services**, Operations Finance / FP&A — Cleveland, OH (Jun 2025 – Present)  
-Build and maintain **5** executive KPI dashboards; query and validate SQL/Excel datasets of tens of thousands of rows across a **$50M** expense base; deliver written commentary to **10** managers; own **5** Excel models supporting a **10-person** finance function; cut the monthly reporting cycle from **5 days to 3**; ops partnership contributed to a **2%** throughput increase.
+**PNC Financial Services**, Financial Analyst — Operations Finance / FP&A — Cleveland, OH (Jun 2025 – Present)  
+Build and maintain executive KPI dashboards; query and validate SQL/Excel datasets of tens of thousands of rows across a **$50M** expense base; deliver written commentary to functional managers and business leaders; own analytical Excel models supporting the finance function; cut the monthly close cycle from **5 days to 3**; ops partnership contributed to a **2%** throughput increase.
 
 **upGrad**, Financial Analyst — Hyderabad, India (Apr 2022 – Jul 2023)  
-Designed **4** Power BI/Tableau dashboards; automated NetSuite/Banner reporting (full day saved); variance analysis across **4** divisions; forecasting plus **5** NPV/IRR capital cases.
+Designed and maintained Power BI and Tableau dashboards; automated NetSuite/Banner reporting (full day saved); variance analysis across multiple divisions; forecasting plus NPV/IRR on capital investment cases.
 
 **BYJU’S**, Sales Analyst — Vijayawada, India (Aug 2020 – Mar 2022)  
 Monthly MIS; pricing and ROI models; departmental budgets, standard-cost variance, and working-capital analysis.
