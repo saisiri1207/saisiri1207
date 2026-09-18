@@ -76,11 +76,12 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 | 4 | [Driver-based forecast](https://github.com/saisiri-bandaru/driver-based-forecast) | If volume or cost moves, what happens to the P&L vs plan? | `Northline_Driver_Based_Forecast.xlsx` |
 
 <details>
-<summary>More models (scenario, board flash, unit economics, ZBB, margin/mix, DCF, and more)</summary>
+<summary>More models (Power BI sales, scenario, board flash, unit economics, ZBB, margin/mix, DCF, and more)</summary>
 <br/>
 
 | Model | What it proves |
 | --- | --- |
+| [Sales Power BI dashboard](https://github.com/saisiri-bandaru/northline-sales-powerbi-dashboard) | Executive / MTD / SPLY sales views with DAX time intelligence |
 | [Scenario planning pack](https://github.com/saisiri-bandaru/scenario-planning-pack) | Base / upside / downside P&L from the same driver set |
 | [Board / ELT flash](https://github.com/saisiri-bandaru/board-elt-flash) | One-page close pre-read: P&L flash, KPIs, callouts |
 | [Unit economics](https://github.com/saisiri-bandaru/unit-economics-workbook) | Per-unit contribution by SKU/channel and launch payback |
