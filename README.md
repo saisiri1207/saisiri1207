@@ -5,24 +5,18 @@
 <br/>
 
 <div align="center">
-  <img src="./sai.jpg" width="120" alt="Sai Siri" />
 
-  ### Hi, I'm Sai Siri
+  Currently a **Financial Analyst** at **PNC Financial Services** (Operations Finance / FP&A).  
+  I build executive KPI dashboards, SQL-driven variance analysis, and forecasting models across a **$50M** expense base.
 
-  **Finance & Business Analytics Professional**  
-  Financial Analyst / FP&A / Business & Data Analyst
-
-  I turn financial and operational data into forecasts, variance analysis, and executive-ready reporting.  
-  Currently a Financial Analyst at **PNC Financial Services**, working across a **$50M** expense base.
-
-  🔭 Building executive KPI dashboards, variance analysis, and forecasting models  
-  🛠️ SQL · Power BI (DAX) · Tableau · Python (pandas) · R · Excel  
-  🎓 MS in Business Analytics (Beta Gamma Sigma), University of New Haven · MBA in Accounting & Finance
+  **Stack** · SQL · Power BI (DAX) · Tableau · Python (pandas) · R · Excel  
+  **Education** · MS Business Analytics (Beta Gamma Sigma), University of New Haven · MBA Accounting & Finance
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-saisiri1207.github.io-0A66C2?style=for-the-badge)](https://saisiri1207.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-saisiri1207-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisiri1207)
   [![Email](https://img.shields.io/badge/Email-bandarusaisiri1207%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandarusaisiri1207@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-saisiri1207-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisiri1207)
+
 </div>
 
 ---
@@ -49,7 +43,7 @@
 ## Selected projects
 
 ### Dashboards & reporting
-| Project | Link |
+| Project | Repo |
 | --- | --- |
 | Power BI sales dashboard | [northline-sales-powerbi-dashboard](https://github.com/saisiri1207/northline-sales-powerbi-dashboard) |
 | Monthly KPI scorecard | [monthly-kpi-scorecard](https://github.com/saisiri1207/monthly-kpi-scorecard) |
@@ -58,7 +52,7 @@
 | Board / ELT flash pack | [board-elt-flash](https://github.com/saisiri1207/board-elt-flash) |
 
 ### Forecasting & modeling
-| Project | Link |
+| Project | Repo |
 | --- | --- |
 | Driver-based forecast | [driver-based-forecast](https://github.com/saisiri1207/driver-based-forecast) |
 | Three-statement model | [three-statement-model](https://github.com/saisiri1207/three-statement-model) |
@@ -67,7 +61,7 @@
 | Headcount and staffing forecast | [headcount-staffing-forecast](https://github.com/saisiri1207/headcount-staffing-forecast) |
 
 ### Unit economics & cost
-| Project | Link |
+| Project | Repo |
 | --- | --- |
 | Margin and mix bridge | [margin-mix-bridge](https://github.com/saisiri1207/margin-mix-bridge) |
 | Unit economics workbook | [unit-economics-workbook](https://github.com/saisiri1207/unit-economics-workbook) |
@@ -79,17 +73,12 @@
 
 ## Experience
 
-**PNC Financial Services** · Financial Analyst, Operations Finance / FP&A · Jun 2025–Present  
-Executive KPI dashboards, SQL-driven variance analysis, and reporting-cycle redesign (cut monthly close from 5 days to 3).
-
-**upGrad** · Financial Analyst · Apr 2022–Jul 2023  
-Power BI / Tableau dashboards, budget-vs-actual variance across divisions, tuition / revenue forecasting, NPV / IRR analysis.
-
-**BYJU'S** · Sales Analyst · Aug 2020–Mar 2022  
-Monthly MIS, dynamic pricing models, ROI / payback analysis.
-
-**BSNL** · Junior Financial Analyst · Jan 2019–Aug 2019  
-SAP / Oracle ERP actual-vs-budget analysis, EBITDA and debt-to-equity MIS reporting.
+| Role | Company | Period | Focus |
+| --- | --- | --- | --- |
+| Financial Analyst, Ops Finance / FP&A | PNC Financial Services | Jun 2025–Present | KPI dashboards, SQL variance, month-end close 5→3 days |
+| Financial Analyst | upGrad | Apr 2022–Jul 2023 | Power BI / Tableau, BvA, tuition forecasting, NPV / IRR |
+| Sales Analyst | BYJU'S | Aug 2020–Mar 2022 | Monthly MIS, pricing models, ROI / payback |
+| Junior Financial Analyst | BSNL | Jan 2019–Aug 2019 | SAP / Oracle BvA, EBITDA and leverage MIS |
 
 ---
 
