@@ -12,7 +12,6 @@
   **Stack** · SQL · Power BI (DAX) · Tableau · Python (pandas) · R · Excel  
   **Education** · MS Business Analytics (Beta Gamma Sigma), University of New Haven · MBA Accounting & Finance
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-saisiri1207.github.io-0A66C2?style=for-the-badge)](https://saisiri1207.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-saisiri1207-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisiri1207)
   [![Email](https://img.shields.io/badge/Email-bandarusaisiri1207%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandarusaisiri1207@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-saisiri1207-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisiri1207)
