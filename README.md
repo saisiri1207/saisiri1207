@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="./sai.jpg" width="120" style="border-radius:50%" alt="Sai Siri" />
+  <img src="./sai.jpg" width="120" alt="Sai Siri" />
 
   ### Hi, I'm Sai Siri
 
@@ -28,8 +28,20 @@
 ---
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saisiri1207&show_icons=true&theme=radical&hide_border=true&bg_color=0b1220&title_color=7CFF00&icon_color=3b82f6&text_color=e2e8f0" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisiri1207&layout=compact&theme=radical&hide_border=true&bg_color=0b1220&title_color=7CFF00&text_color=e2e8f0" alt="Top languages" />
+  <img src="./assets/stats.svg" height="170" alt="GitHub overview" />
+  &nbsp;&nbsp;
+  <img src="./assets/stack.svg" height="170" alt="Core stack" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/saisiri1207/northline-sales-powerbi-dashboard">
+    <img src="https://opengraph.githubassets.com/1/saisiri1207/northline-sales-powerbi-dashboard" width="48%" alt="Power BI sales dashboard" />
+  </a>
+  <a href="https://github.com/saisiri1207/fpna-variance-dashboard">
+    <img src="https://opengraph.githubassets.com/1/saisiri1207/fpna-variance-dashboard" width="48%" alt="Variance dashboard" />
+  </a>
 </div>
 
 ---
