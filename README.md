@@ -59,6 +59,7 @@
 | DCF valuation | [dcf valuation model](https://github.com/saisiri1207/dcf-valuation-model) |
 | Scenario planning pack | [scenario planning pack](https://github.com/saisiri1207/scenario-planning-pack) |
 | Headcount and staffing forecast | [headcount staffing forecast](https://github.com/saisiri1207/headcount-staffing-forecast) |
+| 13-week cash forecast | [thirteen week cash forecast](https://github.com/saisiri1207/thirteen-week-cash-forecast) |
 
 ### Unit economics & cost
 | Project | Repo |
