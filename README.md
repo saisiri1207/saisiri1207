@@ -84,6 +84,18 @@ Before that: forecasting and dashboards at upGrad, BYJU'S, and BSNL. MS Business
 
 More models and dashboards: [github.com/saisiri1207](https://github.com/saisiri1207)
 
+
+### Code projects
+
+These three are runnable. Sample company is Northline. No employer data.
+
+| Project | What it answers | Stack |
+| --- | --- | --- |
+| [SQL variance pack](https://github.com/saisiri1207/northline-sql-variance) | March missed budget by $6k. Price, volume, or OpEx? | SQL · SQLite |
+| [SaaS ARR bridge](https://github.com/saisiri1207/northline-saas-arr-bridge) | NRR 96.8% after a logo churn. What goes into the reforecast? | Python |
+| [Rolling forecast](https://github.com/saisiri1207/northline-rolling-forecast) | YTD is light. Does the FY still clear budget if wholesale stays soft? | Python |
+
+
 ---
 
 ## Tech stack
