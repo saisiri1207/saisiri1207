@@ -26,6 +26,8 @@ Before that: forecasting and dashboards at upGrad, BYJU'S, and BSNL. MS Business
 
 ## Featured projects
 
+- [Northline GL variance](https://github.com/saisiri1207/northline-gl-variance): fictional consumer products actual vs budget by month, cost center, and account.
+
 <div align="center">
   <a href="https://github.com/saisiri1207/northline-sales-powerbi-dashboard">
     <img src="https://opengraph.githubassets.com/1/saisiri1207/northline-sales-powerbi-dashboard" width="48%" alt="Power BI sales dashboard" />
