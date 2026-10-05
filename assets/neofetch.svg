@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420" role="img" aria-labelledby="title desc">
+  <title id="title">saisiri1207 identity card</title>
+  <desc id="desc">Terminal style profile card for Sai Siri Bandaru</desc>
+  <defs>
+    <filter id="soft" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1F3864" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Window chrome -->
+  <rect x="8" y="8" width="904" height="404" rx="14" fill="#FFFFFF" stroke="#B8C7E0" stroke-width="1.5" filter="url(#soft)"/>
+  <rect x="8" y="8" width="904" height="40" rx="14" fill="#F4F7FC"/>
+  <rect x="8" y="28" width="904" height="20" fill="#F4F7FC"/>
+  <line x1="8.75" y1="48" x2="911.25" y2="48" stroke="#D6DEEC" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="32" cy="28" r="6" fill="#FF5F56"/>
+  <circle cx="52" cy="28" r="6" fill="#FFBD2E"/>
+  <circle cx="72" cy="28" r="6" fill="#27C93F"/>
+
+  <!-- Title bar path -->
+  <text x="460" y="32" text-anchor="middle" font-family="SF Mono, Menlo, Consolas, monospace" font-size="12" fill="#6B7A94">bandarusaisiri1207@gmail.com  ~  /profile.sh --live</text>
+
+  <!-- Left panel: monogram (no photo) -->
+  <circle cx="150" cy="155" r="52" fill="#EEF3FB" stroke="#1F3864" stroke-width="2.5"/>
+  <text x="150" y="168" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700" fill="#1F3864">SS</text>
+
+  <text x="150" y="240" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#1A1A18">Sai Siri Bandaru</text>
+  <text x="150" y="266" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B82F6">Financial Analyst | FP&amp;A</text>
+  <text x="150" y="288" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B6A64">Greater Boston, MA</text>
+
+  <!-- Divider -->
+  <line x1="280" y1="70" x2="280" y2="360" stroke="#E4E9F2" stroke-width="1"/>
+
+  <!-- Right panel: SYSTEM_INFO -->
+  <text x="310" y="84" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#1F3864">SYSTEM_INFO</text>
+
+  <text x="310" y="116" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Role</text>
+  <text x="430" y="116" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">Financial Analyst FP&amp;A</text>
+
+  <text x="310" y="142" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Focus</text>
+  <text x="430" y="142" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">variance analysis, KPI dashboards, forecasting</text>
+
+  <text x="310" y="168" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Stack</text>
+  <text x="430" y="168" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">SQL, Power BI, Tableau, Python, Excel</text>
+
+  <text x="310" y="194" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Education</text>
+  <text x="430" y="194" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">MS Business Analytics, MBA Accounting and Finance</text>
+
+  <text x="310" y="220" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Currently</text>
+  <text x="430" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">PNC Financial Services Ops Finance FP&amp;A</text>
+
+  <!-- Contact -->
+  <text x="310" y="262" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#1F3864">CONTACT</text>
+
+  <text x="310" y="294" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">LinkedIn</text>
+  <text x="430" y="294" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">saisiri1207</text>
+
+  <text x="310" y="320" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Email</text>
+  <text x="430" y="320" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">bandarusaisiri1207@gmail.com</text>
+
+  <text x="310" y="346" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Site</text>
+  <text x="430" y="346" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">saisiri1207.github.io</text>
+
+  <!-- Footer hint -->
+  <text x="460" y="390" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#9A988F">More about me and projects below in README</text>
+</svg>

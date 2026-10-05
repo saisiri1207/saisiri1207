@@ -5,6 +5,12 @@
 <br/>
 
 <div align="center">
+  <img src="./assets/neofetch.svg" alt="Terminal style identity card" width="920" />
+</div>
+
+<br/>
+
+<div align="center">
 
 ### Financial Analyst · FP&A · Business Analytics
 
