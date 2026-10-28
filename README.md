@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Sai Siri Finance and Business Analytics" width="100%" />
+  <img src="./assets/header.svg" alt="Sai Siri Bandaru, Financial Analyst" width="100%" />
 </div>
 
 <br/>
@@ -12,108 +12,83 @@
 
 <div align="center">
 
-### Financial Analyst · FP&A · Business Analytics
+### Financial Analyst · Greater Boston, MA
 
-I turn financial and operational data into forecasts, variance analysis, and executive ready reporting.
-
-**PNC Financial Services** · Operations Finance / FP&A · Greater Boston, MA
+Financial Analyst with 7+ years of experience across Financial Services, the EdTech industry, and the Telecom industry, focused on financial reporting, budgeting, forecasting, variance analysis, and account reconciliation.
 
 </div>
 
 ---
 
-## Current focus
+## At a glance
 
-At **PNC**, I own KPI dashboards, SQL driven variance analysis, and forecasting across a **$50M** expense base. I redesigned monthly reporting and cut the month end close from **5 days to 3**.
+| Result | Where |
+| --- | --- |
+| Revenue forecast accuracy improved from **85% to 92%** | PNC Financial Services |
+| Monthly budget variance reduced from **8% to 5%** | PNC Financial Services |
+| **$450,000** in potential annual savings found | PNC Financial Services |
+| **$1.2 million** in potential annual revenue leakage found | BSNL |
 
-Before that: forecasting and dashboards at upGrad, BYJU'S, and BSNL. MS Business Analytics (Beta Gamma Sigma), University of New Haven · MBA Accounting & Finance.
+I work in SQL, Python, and Power BI, and I apply generative AI tools to analysis and reporting, validating outputs against source records before use.
 
 ---
 
 ## Featured projects
 
-- [Northline GL variance](https://github.com/saisiri1207/northline-gl-variance): fictional consumer products actual vs budget by month, cost center, and account.
-
 <div align="center">
-  <a href="https://github.com/saisiri1207/northline-sales-powerbi-dashboard">
-    <img src="https://opengraph.githubassets.com/1/saisiri1207/northline-sales-powerbi-dashboard" width="48%" alt="Power BI sales dashboard" />
-  </a>
-  <a href="https://github.com/saisiri1207/fpna-variance-dashboard">
-    <img src="https://opengraph.githubassets.com/1/saisiri1207/fpna-variance-dashboard" width="48%" alt="FP and A variance dashboard" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/saisiri1207/three-statement-model">
-    <img src="https://opengraph.githubassets.com/1/saisiri1207/three-statement-model" width="48%" alt="Three statement model" />
-  </a>
-  <a href="https://github.com/saisiri1207/dcf-valuation-model">
-    <img src="https://opengraph.githubassets.com/1/saisiri1207/dcf-valuation-model" width="48%" alt="DCF valuation model" />
-  </a>
+  <a href="https://github.com/saisiri1207/three-statement-model"><img src="https://opengraph.githubassets.com/1/saisiri1207/three-statement-model" width="32%" alt="Three Statement Model" /></a>
+  <a href="https://github.com/saisiri1207/northline-sales-powerbi-dashboard"><img src="https://opengraph.githubassets.com/1/saisiri1207/northline-sales-powerbi-dashboard" width="32%" alt="Northline Sales Power BI Dashboard" /></a>
+  <a href="https://github.com/saisiri1207/northline-gl-variance"><img src="https://opengraph.githubassets.com/1/saisiri1207/northline-gl-variance" width="32%" alt="Northline GL Variance" /></a>
 </div>
 
 <br/>
 
-### 1. Power BI Sales Dashboard
+### 1. Three Statement Model
 | | |
 | --- | --- |
-| **Problem** | Leadership needed one view of sales performance vs plan, not scattered Excel tabs. |
-| **Outcome** | Executive KPI dashboard with MTD and SPLY tracking, sample data, and reusable DAX measures. |
-| **Stack** | Power BI · DAX |
-| **Result** | Clear MTD / SPLY signal for sales and ops reviews. |
-| **Repo** | [northline sales powerbi dashboard](https://github.com/saisiri1207/northline-sales-powerbi-dashboard) |
-
-### 2. FP&A Variance Dashboard
-| | |
-| --- | --- |
-| **Problem** | Month end flash mixed Actual, Budget, and Forecast across separate files. |
-| **Outcome** | Monthly FP&A flash pack: Actual vs Budget vs Forecast, margin and OpEx variance, volume vs rate. |
-| **Stack** | Excel · FP&A |
-| **Result** | One flash pack ready for variance meetings. |
-| **Repo** | [fpna variance dashboard](https://github.com/saisiri1207/fpna-variance-dashboard) |
-
-### 3. Three Statement Model
-| | |
-| --- | --- |
-| **Problem** | Standalone P&L models break when balance sheet and cash flow stay unlinked. |
-| **Outcome** | Fully linked income statement, balance sheet, and cash flow for a sample company. |
-| **Stack** | Excel · Financial modeling |
-| **Result** | Books that balance across IS, BS, and CF. |
+| **What** | A linked income statement, balance sheet and cash flow model, for financial modeling and financial reporting. |
+| **Stack** | Excel |
+| **Result** | A change in one statement flows through the other two and the books still balance. |
 | **Repo** | [three statement model](https://github.com/saisiri1207/three-statement-model) |
 
-### 4. DCF Valuation Model
+### 2. Northline Sales Power BI Dashboard
 | | |
 | --- | --- |
-| **Problem** | Investment cases need a transparent path from free cash flow to value. |
-| **Outcome** | Unlevered DCF with FCF build, WACC, terminal value, NPV, and IRR. |
-| **Stack** | Excel · Valuation |
-| **Result** | NPV and IRR ready for capital decisions. |
-| **Repo** | [dcf valuation model](https://github.com/saisiri1207/dcf-valuation-model) |
+| **What** | An executive dashboard with KPIs, month to date and same period last year views, for management reporting. |
+| **Stack** | Power BI and DAX |
+| **Result** | One dashboard replaces scattered tabs, with KPIs, month to date and same period last year views in the same place. |
+| **Repo** | [northline sales powerbi dashboard](https://github.com/saisiri1207/northline-sales-powerbi-dashboard) |
 
-More models and dashboards: [github.com/saisiri1207](https://github.com/saisiri1207)
+### 3. Northline GL Variance
+| | |
+| --- | --- |
+| **What** | Actual vs budget by month, cost center and account, for variance analysis and account reconciliation. |
+| **Stack** | Python and SQL |
+| **Result** | Variances are ranked by month, cost center and account, so the largest drivers are explained first. |
+| **Repo** | [northline gl variance](https://github.com/saisiri1207/northline-gl-variance) |
 
-
-### Code projects
-
-These three are runnable. Sample company is Northline. No employer data.
-
-| Project | What it answers | Stack |
-| --- | --- | --- |
-| [SQL variance pack](https://github.com/saisiri1207/northline-sql-variance) | March missed budget by $6k. Price, volume, or OpEx? | SQL · SQLite |
-| [SaaS ARR bridge](https://github.com/saisiri1207/northline-saas-arr-bridge) | NRR 96.8% after a logo churn. What goes into the reforecast? | Python |
-| [Rolling forecast](https://github.com/saisiri1207/northline-rolling-forecast) | YTD is light. Does the FY still clear budget if wholesale stays soft? | Python |
-
+Northline is a fictional company with sample data. No employer data.
 
 ---
 
-## Tech stack
+## Experience
 
-| Area | Tools |
+| Role | Company | Period | Highlights |
+| --- | --- | --- | --- |
+| Financial Analyst, FP&A and Financial Reporting | PNC Financial Services, Cleveland, Ohio (Remote) | Jun 2025 to Present | Forecast accuracy 85% to 92%, budget variance 8% to 5%, reconciliation exceptions down 30%, reporting prep time down 60%, $450,000 potential annual savings |
+| Financial Analyst, EdTech industry | upGrad, Hyderabad, India | Apr 2022 to Jul 2023 | Lead to enrollment conversion 8% to 10% across 100,000 prospective students, cost per enrolled student down 15%, counselor productivity up 20%, forecast accuracy 80% to 90% |
+| Sales Analyst, EdTech industry | BYJU'S, Vijayawada, India | Aug 2020 to Mar 2022 | Lead to enrollment conversion 8% to 10%, counselor productivity up 20%, campaign attributed revenue up 12%, weekly reporting 10 hours to 3 hours |
+| Data Analyst, Telecom industry | Bharat Sanchar Nigam Limited (BSNL), Hyderabad, India | Sep 2018 to Aug 2019 | Monthly churn 2.8% to 2.4% across 500,000 subscribers, $1.2 million potential annual revenue leakage found, weekly reporting 12 hours to 4 hours, forecast accuracy 82% to 90% |
+
+---
+
+## Core skills
+
+| Area | Skills |
 | --- | --- |
-| Analytics | SQL · Power BI (DAX) · Tableau |
-| Code | Python (pandas) · R · Excel (Power Query, Power Pivot) |
-| Finance | Forecasting · Variance analysis · Driver based modeling · NPV / IRR |
-| Systems | Oracle NetSuite · Banner · SAP · Oracle ERP |
+| Financial Analysis | Financial Reporting · Variance Analysis · Budgeting · Forecasting · Financial Modeling · Revenue Analysis · Profitability Analysis · Expense Management · Cost Optimization |
+| Accounting and Operations | General Ledger · Account Reconciliation · Management Reporting · Revenue Assurance · Billing Reconciliation |
+| Analytics and Tools | Excel · SQL · Python · Power BI · CRM Analytics · Churn Analysis · Enrollment and Sales Funnel Analytics · Campaign Performance · Generative AI · Prompt Engineering |
 
 <div align="center">
   <img src="./assets/stats.svg" height="170" alt="GitHub overview" />
@@ -123,14 +98,13 @@ These three are runnable. Sample company is Northline. No employer data.
 
 ---
 
-## Experience
+## Education
 
-| Role | Company | Period | Focus |
-| --- | --- | --- | --- |
-| Financial Analyst, Ops Finance / FP&A | PNC Financial Services | Jun 2025 to Present | KPI dashboards, SQL variance, month end close from 5 to 3 days |
-| Financial Analyst | upGrad | Apr 2022 to Jul 2023 | Power BI / Tableau, BvA, tuition forecasting, NPV / IRR |
-| Sales Analyst | BYJU'S | Aug 2020 to Mar 2022 | Monthly MIS, pricing models, ROI / payback |
-| Junior Financial Analyst | BSNL | Jan 2019 to Aug 2019 | SAP / Oracle BvA, EBITDA and leverage MIS |
+| Degree | School | Period |
+| --- | --- | --- |
+| M.S., Business Analytics, Beta Gamma Sigma | University of New Haven | Aug 2023 to May 2025 |
+| MBA, Accounting and Finance | JNTU Kakinada | Jul 2018 to Dec 2020 |
+| Bachelor's, Accounting and Finance | Acharya Nagarjuna University | Aug 2015 to May 2018 |
 
 ---
 
@@ -143,10 +117,4 @@ These three are runnable. Sample company is Northline. No employer data.
   [![GitHub](https://img.shields.io/badge/GitHub-saisiri1207-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisiri1207)
   [![Site](https://img.shields.io/badge/Site-saisiri1207.github.io-1F3864?style=for-the-badge)](https://saisiri1207.github.io/)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisiri1207&theme=radical&hide_border=true&background=0b1220&ring=7CFF00&fire=3b82f6&currStreakLabel=7CFF00" alt="GitHub streak" />
 </div>

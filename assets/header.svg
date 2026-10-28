@@ -39,22 +39,22 @@
   <path d="M0,340 C250,280 450,400 700,320 S1050,260 1200,340" fill="none" stroke="#7CFF00" stroke-width="1.5" opacity=".3"/>
   <!-- headline -->
   <text x="600" y="140" text-anchor="middle" font-family="Inter, Arial Black, sans-serif" font-size="42" font-weight="800" fill="#ffffff">SAI SIRI</text>
-  <text x="600" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">FINANCE &amp; BUSINESS ANALYTICS</text>
-  <text x="600" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#cbd5e1">Financial Analyst  ·  FP&amp;A  ·  SQL · Power BI · Tableau</text>
+  <text x="600" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">FINANCIAL ANALYST</text>
+  <text x="600" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#cbd5e1">Financial Services  ·  EdTech  ·  Telecom  ·  Excel · SQL · Python · Power BI</text>
   <!-- KPI cards -->
   <g>
     <rect x="120" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#2563eb" stroke-width="2.5"/>
-    <text x="260" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">$50M</text>
-    <text x="260" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Expense base</text>
+    <text x="260" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">85% TO 92%</text>
+    <text x="260" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Revenue forecast accuracy</text>
   </g>
   <g>
     <rect x="460" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#7CFF00" stroke-width="2.5"/>
-    <text x="600" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#b6ff2e" font-weight="700">5 → 3 DAYS</text>
-    <text x="600" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Month end close</text>
+    <text x="600" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#b6ff2e" font-weight="700">$450K</text>
+    <text x="600" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Potential annual savings</text>
   </g>
   <g>
     <rect x="800" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#2563eb" stroke-width="2.5"/>
-    <text x="940" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">16 MODELS</text>
-    <text x="940" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Public on GitHub</text>
+    <text x="940" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">$1.2M</text>
+    <text x="940" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Revenue leakage found</text>
   </g>
 </svg>

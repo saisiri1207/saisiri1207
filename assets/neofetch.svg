@@ -26,7 +26,7 @@
   <text x="150" y="168" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700" fill="#1F3864">SS</text>
 
   <text x="150" y="240" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#1A1A18">Sai Siri Bandaru</text>
-  <text x="150" y="266" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B82F6">Financial Analyst | FP&amp;A</text>
+  <text x="150" y="266" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B82F6">Financial Analyst</text>
   <text x="150" y="288" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" fill="#6B6A64">Greater Boston, MA</text>
 
   <!-- Divider -->
@@ -36,19 +36,19 @@
   <text x="310" y="84" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#1F3864">SYSTEM_INFO</text>
 
   <text x="310" y="116" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Role</text>
-  <text x="430" y="116" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">Financial Analyst FP&amp;A</text>
+  <text x="430" y="116" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">Financial Analyst, 7+ years</text>
 
   <text x="310" y="142" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Focus</text>
-  <text x="430" y="142" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">variance analysis, KPI dashboards, forecasting</text>
+  <text x="430" y="142" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">reporting, budgeting, forecasting, variance, reconciliation</text>
 
   <text x="310" y="168" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Stack</text>
-  <text x="430" y="168" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">SQL, Power BI, Tableau, Python, Excel</text>
+  <text x="430" y="168" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">Excel, SQL, Python, Power BI</text>
 
   <text x="310" y="194" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Education</text>
-  <text x="430" y="194" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">MS Business Analytics, MBA Accounting and Finance</text>
+  <text x="430" y="194" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">M.S. Business Analytics, MBA Accounting and Finance</text>
 
   <text x="310" y="220" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#3B82F6">Currently</text>
-  <text x="430" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">PNC Financial Services Ops Finance FP&amp;A</text>
+  <text x="430" y="220" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1A1A18">PNC Financial Services, FP&amp;A and Financial Reporting</text>
 
   <!-- Contact -->
   <text x="310" y="262" font-family="SF Mono, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#1F3864">CONTACT</text>
