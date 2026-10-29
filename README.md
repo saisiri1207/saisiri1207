@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Sai%20Siri&fontSize=58&fontColor=ffffff&desc=Financial%20Analyst%20%7C%20FP%26A%20%26%20Business%20Analytics&descSize=18&descAlignY=63&animation=fadeIn" width="100%" alt="Sai Siri header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Sai%20Siri&fontSize=58&fontColor=ffffff&desc=Financial%20Analyst%20%C2%B7%20Operations%20Finance%20%C2%B7%20Business%20Analytics&descSize=18&descAlignY=63&animation=fadeIn" width="100%" alt="Sai Siri header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=2C9FAF&center=true&vCenter=true&width=680&lines=Forecasts+%E2%80%A2+Variance+Analysis+%E2%80%A2+Executive+Reporting;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python+%E2%80%A2+R+%E2%80%A2+Excel;Driver-based+models+that+hold+up+under+scrutiny" alt="Typing intro"/>
 
@@ -133,7 +133,8 @@ Executive KPIs with month-to-date and same-period-last-year views.
 ### 📈 GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saisiri1207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisiri1207&theme=tokyonight" alt="GitHub stats"/>
+<br/>
 <img height="165" src="https://streak-stats.demolab.com?user=saisiri1207&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
