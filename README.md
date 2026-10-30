@@ -93,6 +93,51 @@ Executive KPIs with month-to-date and same-period-last-year views.
 </tr>
 </table>
 
+### 🧩 More samples
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔎 [Account Reconciliation](https://github.com/saisiri1207/northline-account-reconciliation)
+**Problem:** Bank activity vs GL matched by hand.<br/>
+**Outcome:** SQL rules flag duplicates, missing postings and aged items.<br/>
+**Result:** Exceptions down 67.9% (184 to 59).
+<br/><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💰 [Vendor Spend Savings](https://github.com/saisiri1207/northline-vendor-spend)
+**Problem:** $9.5M vendor spend with no ranked savings list.<br/>
+**Outcome:** Fee rate benchmarks, volume tiers and duplicate vendors ranked.<br/>
+**Result:** $457K annual potential savings.
+<br/><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📡 [Revenue Assurance](https://github.com/saisiri1207/northline-revenue-assurance)
+**Problem:** Usage never tied to billing.<br/>
+**Outcome:** SQL recon finds unbilled usage, wrong tariffs and missed charges.<br/>
+**Result:** $1.24M annualized leakage sized.
+<br/><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏦 [Fee Income Forecast](https://github.com/saisiri1207/northline-fee-income-forecast)
+**Problem:** Same month last year forecast ran low.<br/>
+**Outcome:** Volume and fee rate drivers with seasonality.<br/>
+**Result:** Accuracy 85.3% to 92.9%.
+<br/><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 <details>
 <summary><b>📂 More models and analysis packs (click to expand)</b></summary>
 <br/>
