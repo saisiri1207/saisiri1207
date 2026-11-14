@@ -93,6 +93,53 @@ Executive KPIs with month-to-date and same-period-last-year views.
 </tr>
 </table>
 
+### 🌐 Real data projects
+
+Built on public data pulled by script: FDIC, SEC EDGAR, FRED and NYC Open Data.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 [Bank Peer Benchmarking](https://github.com/saisiri1207/bank-peer-benchmarking)
+**Problem:** How does PNC compare with seven regional bank peers?<br/>
+**Outcome:** FDIC Call Report API, SQLite tables and SQL scorecards for efficiency, NIM, ROA, ROE and fee mix.<br/>
+**Result:** PNC leads on ROE at 12.6% but ranks 5th of 8 on efficiency (59.2%).
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧴 [SEC 10-K Peer Analysis](https://github.com/saisiri1207/sec-10k-financial-analysis)
+**Problem:** Five consumer products companies, which grows and converts cash best?<br/>
+**Outcome:** SEC EDGAR XBRL pull, same filing growth check, margin and working capital dashboard in Excel.<br/>
+**Result:** P&G operating margin 22.7% and a minus 43 day cash cycle.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍽️ [Macro Driver Revenue Forecast](https://github.com/saisiri1207/macro-driver-revenue-forecast)
+**Problem:** Can macro drivers forecast US restaurant sales better than a run rate?<br/>
+**Outcome:** FRED data, backtest 2023 to 2026 and base, downside and upside scenarios.<br/>
+**Result:** Accuracy 98.1% to 98.3% (11% less error); $10.1B scenario range.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏛️ [NYC Budget vs Actual](https://github.com/saisiri1207/nyc-budget-vs-actual)
+**Problem:** How far does NYC agency spending land from the adopted budget?<br/>
+**Outcome:** NYC Open Data variance by agency and funding source, formula driven Excel.<br/>
+**Result:** FY2025 actual $6.99B (9.0%) over adopted, 0.8% under modified.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 ### 🧩 More samples
 
 <table>
