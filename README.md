@@ -136,6 +136,46 @@ Executive KPIs with month-to-date and same-period-last-year views.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [Variance Commentary with Validation](https://github.com/saisiri1207/northline-variance-commentary-ai)
+**Problem:** AI drafted commentary can carry numbers that do not tie.<br/>
+**Outcome:** Rule based draft plus a check of every figure against source.<br/>
+**Result:** 42 of 42 figures validated; tamper test caught 1 of 1.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📉 [Churn and Lifetime Value](https://github.com/saisiri1207/northline-churn-clv-finance)
+**Problem:** One blended churn rate hides where revenue is leaving.<br/>
+**Outcome:** Cohort retention, churn and lifetime value by segment, revenue at risk.<br/>
+**Result:** $2.01M revenue at risk sized; retention campaign ROI 3.7x.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏷️ [Price Elasticity](https://github.com/saisiri1207/northline-price-elasticity)
+**Problem:** Flat price increases ignore how each product responds.<br/>
+**Outcome:** Regression elasticity by product and price scenario table.<br/>
+**Result:** +$852.9K gross margin vs +$288.6K for a flat 5% increase.
+<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗓️ [Month End Close Tracker](https://github.com/saisiri1207/northline-close-tracker)
+**Problem:** No single view of late or blocked close tasks.<br/>
+**Outcome:** Excel tracker with workdays, dependencies, days late and completion by area.<br/>
+**Result:** 32 tasks tracked; 4 blocked and 2 overdue flagged at workday 4.
+<br/><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+</tr>
 </table>
 
 <details>
