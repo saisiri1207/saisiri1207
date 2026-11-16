@@ -1,60 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Sai Siri Bandaru, Financial Analyst. 7+ years across Financial Services, EdTech and Telecom. Revenue forecast accuracy 85% to 92%, budget variance 8% to 5%, $450K potential annual savings, $1.2M revenue leakage found. Open to Financial Analyst and FP&amp;A roles.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#05070f"/>
       <stop offset="55%" stop-color="#0a1224"/>
       <stop offset="100%" stop-color="#071018"/>
     </linearGradient>
-    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#b6ff2e"/>
-      <stop offset="100%" stop-color="#7CFF00"/>
-    </linearGradient>
-    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="15%" cy="20%" r="40%">
+    <radialGradient id="glow1" cx="12%" cy="18%" r="45%">
       <stop offset="0%" stop-color="#3b82f6" stop-opacity=".35"/>
       <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="90%" cy="80%" r="45%">
-      <stop offset="0%" stop-color="#7CFF00" stop-opacity=".22"/>
+    <radialGradient id="glow2" cx="90%" cy="85%" r="45%">
+      <stop offset="0%" stop-color="#7CFF00" stop-opacity=".18"/>
       <stop offset="100%" stop-color="#7CFF00" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="1200" height="420" fill="url(#bg)"/>
-  <rect width="1200" height="420" fill="url(#glow1)"/>
-  <rect width="1200" height="420" fill="url(#glow2)"/>
-  <!-- pill -->
-  <rect x="470" y="36" width="260" height="34" rx="17" fill="#0b1220" stroke="#2563eb" stroke-width="2"/>
-  <text x="600" y="58" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#93c5fd" font-weight="600">saisiri1207.github.io</text>
-  <!-- dots -->
+  <rect width="1200" height="460" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="20" fill="url(#glow1)"/>
+  <rect width="1200" height="460" rx="20" fill="url(#glow2)"/>
+  <path d="M0,330 C200,250 400,410 600,330 S1000,230 1200,310" fill="none" stroke="#1d4ed8" stroke-width="2" opacity=".35"/>
+  <path d="M0,370 C250,310 450,430 700,350 S1050,290 1200,370" fill="none" stroke="#7CFF00" stroke-width="1.5" opacity=".22"/>
   <g fill="#60a5fa" opacity=".35">
-    <circle cx="80" cy="60" r="2"/><circle cx="110" cy="90" r="1.5"/><circle cx="50" cy="110" r="1.5"/>
-    <circle cx="140" cy="40" r="1"/><circle cx="170" cy="75" r="2"/>
-    <circle cx="1080" cy="320" r="2"/><circle cx="1120" cy="350" r="1.5"/><circle cx="1050" cy="370" r="1.5"/>
+    <circle cx="80" cy="60" r="2"/><circle cx="110" cy="92" r="1.5"/><circle cx="52" cy="112" r="1.5"/><circle cx="170" cy="75" r="2"/>
+    <circle cx="1080" cy="70" r="2"/><circle cx="1122" cy="104" r="1.5"/><circle cx="1046" cy="118" r="1.5"/>
   </g>
-  <!-- curve accents -->
-  <path d="M0,300 C200,220 400,380 600,300 S1000,200 1200,280" fill="none" stroke="#1d4ed8" stroke-width="2" opacity=".45"/>
-  <path d="M0,340 C250,280 450,400 700,320 S1050,260 1200,340" fill="none" stroke="#7CFF00" stroke-width="1.5" opacity=".3"/>
-  <!-- headline -->
-  <text x="600" y="140" text-anchor="middle" font-family="Inter, Arial Black, sans-serif" font-size="42" font-weight="800" fill="#ffffff">SAI SIRI</text>
-  <text x="600" y="188" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">FINANCIAL ANALYST</text>
-  <text x="600" y="230" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#cbd5e1">Financial Services  ·  EdTech  ·  Telecom  ·  Excel · SQL · Python · Power BI</text>
-  <!-- KPI cards -->
-  <g>
-    <rect x="120" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#2563eb" stroke-width="2.5"/>
-    <text x="260" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">85% TO 92%</text>
-    <text x="260" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Revenue forecast accuracy</text>
+  <rect x="370" y="32" width="460" height="34" rx="17" fill="#0b1220" stroke="#7CFF00" stroke-width="2"/>
+  <circle cx="397" cy="49" r="5" fill="#7CFF00"/>
+  <text x="612" y="54" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#b6ff2e">OPEN TO FINANCIAL ANALYST AND FP&amp;A ROLES</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="2" fill="#ffffff">SAI SIRI BANDARU</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5" fill="#60a5fa">FINANCIAL ANALYST  ·  FP&amp;A AND FINANCIAL REPORTING</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" fill="#cbd5e1">7+ years  ·  Financial Services, EdTech, Telecom  ·  Excel, SQL, Python, Power BI  ·  Greater Boston, MA</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <rect x="75" y="250" width="240" height="120" rx="18" fill="#0b1220" stroke="#3b82f6" stroke-width="2.5"/>
+    <text x="195" y="304" font-size="34" font-weight="800" fill="#93c5fd">85% → 92%</text>
+    <text x="195" y="340" font-size="16" font-weight="600" fill="#ffffff">Revenue forecast accuracy</text>
+    <rect x="345" y="250" width="240" height="120" rx="18" fill="#0b1220" stroke="#7CFF00" stroke-width="2.5"/>
+    <text x="465" y="304" font-size="34" font-weight="800" fill="#b6ff2e">8% → 5%</text>
+    <text x="465" y="340" font-size="16" font-weight="600" fill="#ffffff">Monthly budget variance</text>
+    <rect x="615" y="250" width="240" height="120" rx="18" fill="#0b1220" stroke="#3b82f6" stroke-width="2.5"/>
+    <text x="735" y="304" font-size="34" font-weight="800" fill="#93c5fd">$450K</text>
+    <text x="735" y="340" font-size="16" font-weight="600" fill="#ffffff">Potential annual savings</text>
+    <rect x="885" y="250" width="240" height="120" rx="18" fill="#0b1220" stroke="#7CFF00" stroke-width="2.5"/>
+    <text x="1005" y="304" font-size="34" font-weight="800" fill="#b6ff2e">$1.2M</text>
+    <text x="1005" y="340" font-size="16" font-weight="600" fill="#ffffff">Revenue leakage found</text>
   </g>
-  <g>
-    <rect x="460" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#7CFF00" stroke-width="2.5"/>
-    <text x="600" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#b6ff2e" font-weight="700">$450K</text>
-    <text x="600" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Potential annual savings</text>
-  </g>
-  <g>
-    <rect x="800" y="270" width="280" height="100" rx="18" fill="#0b1220" stroke="#2563eb" stroke-width="2.5"/>
-    <text x="940" y="310" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#93c5fd" font-weight="700">$1.2M</text>
-    <text x="940" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">Revenue leakage found</text>
-  </g>
+  <text x="600" y="420" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#93c5fd">PNC Financial Services  ·  upGrad  ·  BYJU'S  ·  BSNL</text>
 </svg>
